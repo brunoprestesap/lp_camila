@@ -37,6 +37,7 @@ export default {
     },
     extend: {
       colors: {
+        "dark-brown": "#2a1810",
         background: {
           light: "#FFFFFF",
           primary: "#D2B496",
