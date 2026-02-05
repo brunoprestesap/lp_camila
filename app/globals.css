@@ -1,9 +1,9 @@
+@import url("https://fonts.cdnfonts.com/css/tt-wellingtons-trl");
+@import url("https://fonts.cdnfonts.com/css/garet");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@import url("https://fonts.cdnfonts.com/css/tt-wellingtons-trl");
-@import url("https://fonts.cdnfonts.com/css/garet");
 
 * {
   margin: 0;
